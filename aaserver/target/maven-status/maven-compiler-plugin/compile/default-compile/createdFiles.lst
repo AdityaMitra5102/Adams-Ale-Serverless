@@ -1,0 +1,6 @@
+com\function\adamsale\server\Server.class
+com\function\adamsale\server\Data.class
+com\function\adamsale\server\HttpReq.class
+com\function\adamsale\server\Location.class
+com\function\adamsale\server\Function.class
+com\function\adamsale\server\Maps.class
